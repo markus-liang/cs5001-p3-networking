@@ -1,0 +1,36 @@
+Fri Nov 06 18:17:37 GMT 2020 : Rootdir = . | Request = [GET] www/index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:17:37 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:18:36 GMT 2020 : Rootdir = . | Request = [POST] test.html => HTTP/1.1 200 OK
+Fri Nov 06 18:18:36 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:21:28 GMT 2020 : Rootdir = . | Request = [POST] test.html => HTTP/1.1 200 OK
+Fri Nov 06 18:21:28 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:23:17 GMT 2020 : Rootdir = www | Request = [GET] index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:23:17 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:23:23 GMT 2020 : Rootdir = www | Request = [GET] test.html => HTTP/1.1 404 Not Found
+Fri Nov 06 18:23:23 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:23:42 GMT 2020 : Rootdir = www | Request = [POST] test.html => HTTP/1.1 404 Not Found
+Fri Nov 06 18:23:42 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:24:34 GMT 2020 : Rootdir = www | Request = [POST] test.html => HTTP/1.1 404 Not Found
+Fri Nov 06 18:24:34 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:25:12 GMT 2020 : Rootdir = www | Request = [POST] index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:25:12 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:26:06 GMT 2020 : Rootdir = www | Request = [POST] index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:26:06 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:26:26 GMT 2020 : Rootdir = www | Request = [POST] index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:26:26 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:28:16 GMT 2020 : Rootdir = www | Request = [POST] index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:28:16 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:31:03 GMT 2020 : Rootdir = www | Request = [POST] index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:31:03 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:32:02 GMT 2020 : Rootdir = www | Request = [POST] index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:32:02 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:33:10 GMT 2020 : Rootdir = www | Request = [POST] index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:33:10 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:36:32 GMT 2020 : Rootdir = www | Request = [POST] index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:36:32 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:38:10 GMT 2020 : Rootdir = www | Request = [POST] index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:38:10 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:39:21 GMT 2020 : Rootdir = www | Request = [POST] index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:39:21 GMT 2020 : Request Parameters : 0
+Fri Nov 06 18:41:21 GMT 2020 : Rootdir = www | Request = [POST] index.html => HTTP/1.1 200 OK
+Fri Nov 06 18:41:21 GMT 2020 : Request Parameters : 0

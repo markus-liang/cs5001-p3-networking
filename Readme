@@ -1,0 +1,16 @@
+Classes :
+- WebServerMain.java : the main class to be called.
+- Server.java : class that processing user request.
+- ResponseHandler.java : class that receive request from server, look for the requested resource, and prepare the response to be delivered to the client.
+- Logger.java : class to handle log.
+
+
+In this assignments :
+- basic requirements
+- log : file name hardcoded as "logs.txt"
+- POST  : 
+  - I assume this is to send file to the server.
+  - Currently works only for Content-Type = text, does not work for image (I do not know yet how to read the data stream in buffered reader as byte data. The readline() function will return string, and causes the image broken)
+  - Tested using curl to upload a file, ex :  "curl -F 'f=@filename.txt' localhost:12345/www/index.html", then the file will be appears in the root folder of the server (root as user input via args)
+- image request handler
+- multi threading
